@@ -22,7 +22,7 @@
   ![image](https://github.com/user-attachments/assets/b32bb612-0038-438d-9b7c-80ee599d2090)
   giving exception for other input type like String.
  
-  Requirements:-
+  # Requirements:-
       1. C# version - 12.0
       2. .NET target - .NET 8
   How to Run?
